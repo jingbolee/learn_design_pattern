@@ -13,7 +13,11 @@ public class TShirt extends DecoratorClothes {
 
     @Override
     public void show() {
-        System.out.print("T恤");
+        wearShirt();
         super.show();
+    }
+
+    public void wearShirt() {
+        System.out.print("T恤");
     }
 }

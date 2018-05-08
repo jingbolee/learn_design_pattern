@@ -17,8 +17,6 @@ public abstract class DecoratorClothes extends Person {
         mPerson = person;
     }
 
-
-
     @Override
     public void show() {
         mPerson.show();

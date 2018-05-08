@@ -13,7 +13,11 @@ public class BigTrouser extends DecoratorClothes {
 
     @Override
     public void show() {
-        System.out.print("大裤衩");
+        wearTrouser();
         super.show();
+    }
+
+    public void wearTrouser() {
+        System.out.print("大裤衩");
     }
 }

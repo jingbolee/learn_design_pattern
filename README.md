@@ -1,6 +1,7 @@
 ## 学习设计模式的示例代码
 ### 创建型设计模式
 - 单例模式：
+    - path : src\main\java\singleton_pattern
 - 简单工厂模式
 - 工厂方法模式
 - 抽象工厂模式

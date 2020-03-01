@@ -11,7 +11,7 @@
     | 合成复用原则 | 尽量使用对象组合，而不是继承来达到服用的目的     |   
     | 迪米特法则 | 一个软件实体应该尽可能少的与其他实体发生相互作用      |  
      
-### [创建型设计模式](/src/main/java/creationnal_pattern/README.MD)
+### [创建型设计模式](/src/main/java/creational_pattern/README.MD)
 - 单例模式：
     - path : src\main\java\singleton_pattern
 - 简单工厂模式

@@ -1,4 +1,4 @@
-package singleton_pattern;
+package creational_pattern.singleton_pattern;
 
 /**
  * 双重检查锁实现单例

@@ -1,4 +1,4 @@
-package singleton_pattern;
+package creational_pattern.singleton_pattern;
 
 /**
  * 通过枚举实现单例

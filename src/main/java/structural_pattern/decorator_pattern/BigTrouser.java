@@ -1,4 +1,4 @@
-package decorator_pattern;
+package structural_pattern.decorator_pattern;
 
 /**
  * @作者: lijingbo

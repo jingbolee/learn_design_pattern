@@ -1,4 +1,4 @@
-package singleton_pattern;
+package creational_pattern.singleton_pattern;
 
 /**
  * 类初始化实现单例-饿汉式加载，类被加载的时候就初始化了

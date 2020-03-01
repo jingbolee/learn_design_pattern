@@ -1,4 +1,4 @@
-package singleton_pattern;
+package creational_pattern.singleton_pattern;
 
 /**
  * 静态内部类实现单例-虚拟机加载该类的时候，是不会初始化的 INSTANCE ,

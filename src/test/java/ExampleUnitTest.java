@@ -1,9 +1,9 @@
-import decorator_pattern.BigTrouser;
-import decorator_pattern.Person;
-import decorator_pattern.PersonIml;
-import decorator_pattern.TShirt;
+import creational_pattern.singleton_pattern.*;
 import org.junit.Test;
-import singleton_pattern.*;
+import structural_pattern.decorator_pattern.BigTrouser;
+import structural_pattern.decorator_pattern.Person;
+import structural_pattern.decorator_pattern.PersonIml;
+import structural_pattern.decorator_pattern.TShirt;
 
 public class ExampleUnitTest {
     @Test
